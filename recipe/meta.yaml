@@ -27,7 +27,7 @@ test:
 
 about:
   home: https://github.com/simonpercivall/astunparse
-  license: BSD 3-Clause, PSF 2
+  license: BSD-3-Clause AND PSF-2.0
   license_file: LICENSE
   summary: An AST unparser for Python.
   description: |
