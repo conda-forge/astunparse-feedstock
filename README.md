@@ -5,9 +5,13 @@ Home: https://github.com/simonpercivall/astunparse
 
 Package license: BSD-3-Clause AND PSF-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/astunparse-feedstock/blob/master/LICENSE.txt)
 
 Summary: An AST unparser for Python.
+
+Development: https://github.com/simonpercivall/astunparse
+
+Documentation: http://astunparse.readthedocs.io/en/latest/
 
 This is a factored out version of unparse found in the Python source
 distribution; under Demo/parser in Python 2 and under Tools/parser in
