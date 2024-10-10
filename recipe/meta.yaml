@@ -17,7 +17,6 @@ requirements:
   build:
     - pip
     - python >=3.6
-    - setuptools
   run:
     - six >=1.6.1,<2.0
     - python >=3.6
@@ -40,7 +39,8 @@ about:
     This is a factored out version of unparse found in the Python source
     distribution; under Demo/parser in Python 2 and under Tools/parser in
     Python 3.
-  doc_url: http://astunparse.readthedocs.io
+  dev_url: https://github.com/simonpercivall/astunparse
+  doc_url: http://astunparse.readthedocs.io/en/latest/
 
 extra:
   recipe-maintainers:
